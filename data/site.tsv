@@ -1,14 +1,24 @@
 #key	value
-name	Kalvi Agam
-byline	Nalai Ulagam Nam Senjirpadhi
-safeName	kalvi-agam
+name	Kalvi School for Integral Education
+byline	Naam Seyapovadhe Nalaiya Ulagam
+safeName	integralkalvi
+
 iconName	Kalvi School
-footer-message	[Kalviya Sevama Veerama?]<!--todo-->
 siteMenuName	Kalvi School
+
+welcome-message	[spotify]track/7sGiX5sHLGyngrtQYaK4ua[/spotify]
+footer-message	[Kalviya Sevama Veerama?]<!--todo-->
+
 sections	library, archives: 2025, nursery, more: primary+students+parents+elders
 network	no
-mediakit	?palette=default
-fonts	cursive=Eagle+Lake&menu=Quintessential&menu-size=1.3rem
+mediakit	?heading=ffebcd&footer=727883
+fonts	cursive=Eagle+Lake&menu=Spectral&menu-size=1.3rem
+
+email	kalviintergraleducation@gmaill.com
+phone	+91-8940193339
+whatsapp	918940193339
+address	Riyo Farm, Rajeshwari College Road, Kuyilappalayam P.O., Vanur T.K., Tamil Nadu, 605 101, India
+
 local-url	http://localhost/families/kalvi/
 live-url	https://families.amadeusweb.world/kalvi/
-year	20__
+year	2023

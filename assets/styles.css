@@ -1,0 +1,6 @@
+:root {
+	--cnvs-primary-font: "Spectral", serif;
+	font-size: larger;
+}
+
+#header, #content { background: url(body-bg.png); background-size: 100vw auto; }
